@@ -13,7 +13,8 @@ Alexa names of relays [1...8] Belen 1... Belen 8
 By default or conection not valid the module will be started as access point with name NEWIOT-XXX pwd 123456789 and ip 192.168.4.1
 Yo need conecc at access point, (newiot-xxx, pwd=123456789) and open your browser url 192.168.4.1 then change configuration for connect to you wifi 
 
-# The main defines in this version has this important parameters
+## The main defines in this version has this important parameters
+The projet are developed with visual studio, platformio, and arduino ide enviroment
 ```c++
 #ifndef MAINDEFINES_H
 #define MAINDEFINES_H
