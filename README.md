@@ -1,4 +1,4 @@
-# 8-relays-esp32-integrate-mudule-belen
+# 8-relays-esp32-integrate-module-belen
 Integrated module esp32 with 8 relays, managed with alexa and web interface
 
 
